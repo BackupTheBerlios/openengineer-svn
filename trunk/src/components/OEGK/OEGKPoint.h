@@ -1,3 +1,13 @@
+/*
+ * Name		:	OEGKPoint.h
+ * Comment	:	Declares OEGKPoint class, which implements
+ * 			IOEGKShape interface
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OEGK_POINT_HEADER__
 #define __OEGK_POINT_HEADER__
 

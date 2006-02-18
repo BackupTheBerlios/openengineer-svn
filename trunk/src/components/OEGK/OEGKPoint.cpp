@@ -1,7 +1,13 @@
 /*
- *
+ * Name		:	OEGKPoint.cpp
+ * Comment	:	Implements methods in OEGKPoint class, which
+ 			implements IOEGKShape interface for a point
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
-
+ 
 /////////////////////////////////////////////////////////////////////
 // Standard include files
 

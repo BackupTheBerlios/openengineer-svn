@@ -1,3 +1,13 @@
+/*
+ * Name		:	IOEGKShape.h
+ * Comment	:	Declares an interface IOEGKShape, that every
+ * 			shape to be rendered by OEGKCanvas is to implement
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OEGK_SHAPE_HEADER__
 #define __OEGK_SHAPE_HEADER__
 

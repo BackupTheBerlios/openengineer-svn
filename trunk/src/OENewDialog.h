@@ -1,3 +1,12 @@
+/*
+ * Name		:	OENewDialog.h
+ * Comment	:	Declares OENewDialog class
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OE_NEW_DIALOG_HEADER__
 #define __OE_NEW_DIALOG_HEADER__
 

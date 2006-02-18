@@ -1,8 +1,14 @@
 /*
- *	FILE	:	OEGKCanvas.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	OEGKCanvas.cpp
+ * Comment	:	Implements methods in OEGKCanvas class
+ * 			This class forms one of the component of Open
+ *			Engineer Graphics Kernel (OEGK). It renders
+ * 			components which are defines in other part of OEGK,
+ *			i.e., OEGKContext
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
 
 /////////////////////////////////////////////////////////////////////

@@ -1,3 +1,13 @@
+/*
+ * Name		:	OEGKLine.h
+ * Comment	:	Declares class OEGKLine, which implements 
+ * 			IOEGKShape interface
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OEGK_LINE_HEADER__
 #define __OEGK_LINE_HEADER__
 

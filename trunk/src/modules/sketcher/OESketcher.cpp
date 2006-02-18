@@ -1,10 +1,13 @@
 /*
- *	FILE	:	OESketcher.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c)	Hariprasad Govardhanam
+ * Name		:	OESketcher.cpp
+ * Comment	:	Implements methods in OESketcher class
+ * 			OESketcher is a 2D mechanical sketcher that can
+ * 			be embedded into another module
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
-
 /////////////////////////////////////////////////////////////////////
 // Standard include files
 

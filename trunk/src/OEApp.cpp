@@ -1,8 +1,13 @@
 /*
- *	FILE	:	OEApp.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:	
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	OEApp.cpp
+ * Comment	:	Application class that inherits wxApp class
+ *			Execution of the program starts OnInit method
+ *			of the class. Methods in this class work as
+ *			system calls
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
 
 /////////////////////////////////////////////////////////////////////

@@ -1,3 +1,12 @@
+/*
+ * Name		:	OEBasicFrame.h
+ * Comment	:	Declares OEBasicFrame class
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OE_BASIC_FRAME_HEADER__
 #define __OE_BASIC_FRAME_HEADER__
 

@@ -1,8 +1,11 @@
 /*
- *	FILE	:	OEDebug.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	IOEDebug.cpp
+ * Comment	:	Requires a lot to be done, it should form the
+ * 			base of all debugging features in the software
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
 
 /////////////////////////////////////////////////////////////////////

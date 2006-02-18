@@ -1,10 +1,11 @@
 /*
- *	FILE	:	OESketcher.h
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	OESketcher.h
+ * Comment	:	Declares OESketcher class
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
-
 #ifndef __OE_SKETCHER_HEADER__
 #define __OE_SKETCHER_HEADER__
 

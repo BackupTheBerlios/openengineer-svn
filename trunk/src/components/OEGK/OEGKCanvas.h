@@ -1,3 +1,12 @@
+/*
+ * Name		:	OEGKCanvas.h
+ * Comment	:	Declares OEGKCanvas class
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OEGK_CANVAS_HEADER__
 #define __OEGK_CANVAS_HEADER__
 

@@ -1,3 +1,13 @@
+/*
+ * Name		:	OEGKEllipse.h
+ * Comment	:	Declares a class OEGKEllipse, which implements
+ * 			the interface IOEGKShape
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OEGK_ELLIPSE_HEADER__
 #define __OEGK_ELLIPSE_HEADER__
 

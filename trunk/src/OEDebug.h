@@ -1,3 +1,13 @@
+/*
+ * Name		:	OEDebug.h
+ * Comment	:	Declares function prototypes of all debug
+ * 			related features of the software
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OE_DEBUG_HEADER__
 #define __OE_DEBUG_HEADER__
 

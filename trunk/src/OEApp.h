@@ -1,3 +1,12 @@
+/*
+ * Name		:	OEApp.h
+ * Comment	:	Declares OEApp class
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OE_APP_HEADER__
 #define __OE_APP_HEADER__
 
@@ -20,7 +29,7 @@ public:
 
 	/* Following functions serve like a 
 	 * systemcalls for a kernel */
-	IOEModule*  LoadModule (const char* module_name, int flags);
+	IOEModule*  	LoadModule (const char* module_name, int flags);
 	void		UnLoadModule (IOEModule*);
 
 	void 		RegisterFrame (OEBasicFrame*);

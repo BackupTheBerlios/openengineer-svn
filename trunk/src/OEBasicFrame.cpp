@@ -1,8 +1,12 @@
 /*
- *	FILE	:	OEBasicFrame.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	OEBasicFrame.cpp
+ * Comment	:	Implements methods of class OEBasicFrame
+ *			All the modules should use this class instead
+ *			of their own class
+ * License	:	(c)2006 Hariprasad Govardhanam
+ *			Released under BSD-Style License
+ *			Please LICENSE file accompanying this source
+ * Changes	:	
  */
 
 /////////////////////////////////////////////////////////////////////

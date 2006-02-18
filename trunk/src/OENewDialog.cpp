@@ -1,10 +1,14 @@
 /*
- *	FILE	:	OENewDialog.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	OENewDialog.cpp
+ * Comment	:	OENewDialog class is shown when the user wants
+ * 			to open a new module document. This class will
+ *			show the list of modules available and return
+ *			the selected module
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
-
 /////////////////////////////////////////////////////////////////////
 // Standard include files
 

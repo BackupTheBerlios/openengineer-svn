@@ -1,3 +1,13 @@
+/*
+ * Name		:	IOEModuleLoader.h
+ * Comment	:	Declares an interface IOEModuleLoader, that every 
+ * 			module loader should implement
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
+ */
+ 
 #ifndef __OE_IMODULELOADER_HEADER__
 #define __OE_IMODULELOADER_HEADER__
 

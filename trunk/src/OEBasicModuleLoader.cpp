@@ -1,8 +1,11 @@
 /*
- *	FILE	:	OEBasicModuleLoader.cpp
- *	AUTHOR	:	Hariprasad Govardhanam
- *	DESC	:
- *	LICENSE	:	(c) Hariprasad Govardhanam
+ * Name		:	OEBasicModuleLoader.cpp
+ * Comment	:	Implements the OEBasicModuleLoader class
+ * 			methods
+ * License	:	(c)2006 Hariprasad Govardhanam
+ * 			Released under BSD-Style License
+ * 			Please LICENSE file accompanying this source
+ * Changes	:	
  */
 
 /////////////////////////////////////////////////////////////////////
